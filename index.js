@@ -13,3 +13,4 @@ function countDown(startingNumber) {
         count--;
     }
 }
+ 
